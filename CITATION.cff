@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: Bodymap-for-LimeSurvey
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leon
+    family-names: Rosenplänter
+    email: leon.rosenplaenter@psychol.uni-giessen.de
+    affiliation: JLU Giessen
+    orcid: 'https://orcid.org/0009-0001-4961-2281'
+repository-code: 'https://github.com/lrosenplaenter/Bodymap-for-LimeSurvey'
+abstract: >-
+  An interactive bodymap for LimeSurvey that allows
+  participants to select body regions directly on an
+  image,This is ideal for medical, psychological, e.g.
+  pain-mapping surveys.
+keywords:
+  - limesurvey
+  - bodymap
+  - limesurvey-plugin
+license: MIT

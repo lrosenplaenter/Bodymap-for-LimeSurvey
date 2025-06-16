@@ -2,6 +2,11 @@
 
 An interactive bodymap for LimeSurvey that allows participants to select body regions directly on an image,This is ideal for medical, psychological, e.g. pain-mapping surveys.
 
+## Online Demo
+
+Try it here:  
+[https://survey.hrz.uni-giessen.de/index.php/335653?newtest=Y](https://survey.hrz.uni-giessen.de/index.php/335653?newtest=Y)
+
 ## Features
 
 - Interactive SVG overlay on a body image
@@ -50,6 +55,7 @@ An interactive bodymap for LimeSurvey that allows participants to select body re
 - `bodymap.png` – The main body image (must be uploaded as described above)
 - `*.svg` – SVG files for each body region (for editing or reference)
 - `*.xcf` – GIMP source files for the bodymap and overlays
+- `CITATION.cff` – Citation metadata for this software
 - This README
 
 ## Customization
@@ -57,9 +63,13 @@ An interactive bodymap for LimeSurvey that allows participants to select body re
 - To use your own body image, replace `bodymap.png` and adjust SVG overlays as needed.
 - Edit the SVG paths in `bodymap.html` or the included SVG files for custom regions.
 
+## Citation
+
+If you use this software, please cite it using the metadata in the included `CITATION.cff` file.
+
 ## License
 
-MIT License (see LICENSE file for details).
+MIT License (see `LICENSE` file for details).
 
 ---
 
