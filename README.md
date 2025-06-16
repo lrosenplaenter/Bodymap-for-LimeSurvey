@@ -1,4 +1,5 @@
 # Bodymap-for-LimeSurvey
+[![DOI](https://zenodo.org/badge/1003200779.svg)](https://doi.org/10.5281/zenodo.15678321)
 
 An interactive bodymap for LimeSurvey that allows participants to select body regions directly on an image,This is ideal for medical, psychological, e.g. pain-mapping surveys.
 

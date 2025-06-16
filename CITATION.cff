@@ -10,6 +10,9 @@ authors:
     email: leon.rosenplaenter@psychol.uni-giessen.de
     affiliation: JLU Giessen
     orcid: 'https://orcid.org/0009-0001-4961-2281'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15678321
 repository-code: 'https://github.com/lrosenplaenter/Bodymap-for-LimeSurvey'
 abstract: >-
   An interactive bodymap for LimeSurvey that allows
